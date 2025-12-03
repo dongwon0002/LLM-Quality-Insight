@@ -5,3 +5,5 @@
 - KG Link Prediction Task를 이용한 LLM이 구축한 KG의 일관성에 대한 테스트 진행
 - KG를 바탕으로 고장의 빈도수, 기준에 의한 심각도 분류
 - 발생도, 심각도를 통한 현시점 가장 시급한 품질 개선 프로젝트에 대해 제안 
+
+<img width="2162" height="1061" alt="image" src="https://github.com/user-attachments/assets/cc30c091-7425-4a1a-8f8e-008acaa012b7" />
